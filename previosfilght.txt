@@ -1,0 +1,17 @@
+mhd,OSDI,OSAP,One-Way,Passport,High,4_1_2024,1:00,200.0,2:00
+mhd,OSAP,OSLK,One-Way,Passport,High,14_1_2024,1:00,200.0,2:00
+nour,OSDI,OSAP,One-Way,Passport,Business,4_1_2024,1:00,300.0,2:00
+nour,OSDI,OSAP,Round Trip,Passport,Business,1_2_2024,1:00,300.0,2:00
+nour,OSDI,OSKL,One-Way,Passport,Business,2_4_2024,1:00,300.0,2:00
+nour,OSAP,OSLK,Round Trip,Passport,Business,13_10_2024,1:00,90.0,2:00
+mhd,OSLK,OSAP,One-Way,Visa,Normal,9_3_2024,11:00,100.0,2:00
+mhd,OSLK,OSAP,One-Way,Visa,Normal,9_3_2024,11:00,100.0,2:00
+mhd,OSDI,OSAP,One-Way,Visa,Business,9_3_2024,3:00,300.0,2:00
+mhd,OSDI,OSAP,One-Way,Visa,Business,9_3_2024,3:00,300.0,2:00
+mhd,OSDI,OSAP,One-Way,Visa,Business,9_3_2024,3:00,300.0,2:00
+mhd,OSDI,OSAP,One-Way,Visa,Business,9_3_2024,3:00,90.0,2:00
+alaa,OSAP,OSDI,One-Way,Visa,Normal,24_8_2024,1:00,100.0,2:00
+alaa,OSAP,OSDI,One-Way,Visa,Business,24_8_2024,1:00,300.0,2:00
+alaa,OSAP,OSDI,One-Way,Visa,Business,24_8_2024,1:00,300.0,2:00
+alaa,OSAP,OSDI,One-Way,Visa,Business,24_8_2024,1:00,300.0,2:00
+alaa,OSAP,OSDI,One-Way,Visa,Business,24_8_2024,1:00,90.0,2:00
